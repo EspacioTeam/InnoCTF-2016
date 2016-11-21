@@ -1,0 +1,10 @@
+{
+    "name": "Brute Master",
+    "score": 250,
+    "category": "misc",
+    "grader": "misc/brutemaster/grader.py",
+    "description": "<p>Я слышал, хакеры любят брутфорсить?</p><p>188.130.155.58:10002</p>",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": ""
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Click them all",
+    "score": 350,
+    "category": "Reverse",
+    "grader": "rev/android-clicker/grader.py",
+    "description": "<a target=_blank href='problem-static/rev/android-clicker/click-them-all.apk'>Закликать до флага</a>!",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": ""
+}

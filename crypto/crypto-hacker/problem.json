@@ -1,0 +1,10 @@
+{
+    "name": "Crypto hacker",
+    "score": 150,
+    "category": "Crypto",
+    "grader": "crypto/crypto-hacker/grader.py",
+    "description": "Мы перехватили некие файлы: <a href='problem-static/crypto/crypto-hacker/flag.enc'>1</a> <a href='problem-static/crypto/crypto-hacker/public.txt'>2</a>. Но мы не знаем что значат эти цифры... ",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": ""
+}

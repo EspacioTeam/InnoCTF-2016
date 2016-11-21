@@ -1,0 +1,10 @@
+{
+    "name": "VK API vol.1",
+    "score": 100,
+    "category": "Recon",
+    "grader": "recon/vk1/grader.py",
+    "description": "<p><a href=\"problem-static/recon/vk1/photo1.jpeg\">Фото</a> одного из мостов Новосибирска, на вид ему не больше года.</p>",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": "Флаг = id пользователя, выложившего её первым. Формат флага InnoCTF{id}"
+}

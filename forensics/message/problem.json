@@ -1,0 +1,10 @@
+{
+    "name": "Message",
+    "score": 100,
+    "category": "Forensics",
+    "grader": "forensics/message/grader.py",
+    "description": "Мы перехватили <a target=_blank href='problem-static/forensics/message/message.pcap'>трафик</a>. Сможете разобрать что там?",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": ""
+}

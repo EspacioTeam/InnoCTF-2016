@@ -1,0 +1,10 @@
+{
+    "name": "Who is?",
+    "score": 50,
+    "category": "Forensics",
+    "grader": "forensics/whois/grader.py",
+    "description": "<a href='problem-static/forensics/whois/21.jpg'>Он пропал</a>! Пожалуйста, помогите его найти",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": ""
+}

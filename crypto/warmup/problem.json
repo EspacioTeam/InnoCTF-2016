@@ -1,0 +1,8 @@
+{"name": "Warm up",
+ "score": 50,
+ "category": "Crypto",
+ "grader": "crypto/warmup/grader.py",
+ "description": "Ваша задача факторизовать число: 42636039340331992210058546740792166576013353245409602617966930062210409285821. Ответ - наибольший фактор в формате: InnoCTF{number}",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": ""}

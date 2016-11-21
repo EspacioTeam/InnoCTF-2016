@@ -1,0 +1,10 @@
+{
+    "name": "Darude Sandstorm",
+    "score": 50,
+    "category": "Joy",
+    "grader": "joy/darude/grader.py",
+    "description": "Посоны, чё за <a target=_blank href='problem-static/joy/darude/darude.wav'>трек</a>. Флаг -- конкатенация первых букв названий треков в нижнем регистре. Например, 'Darude - Sandstorm' -- 's'",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": ""
+}

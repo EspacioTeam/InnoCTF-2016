@@ -1,0 +1,9 @@
+{"name": "Eat me",
+ "score": 300,
+ "category": "PPC",
+ "grader": "ppc/eat_me/grader.py",
+ "description": "<p>Сыграйте в русскую игру \"съедобное-несъедобное\". Действуйте быстро, мы не можем ждать.</p> <p>188.130.155.58:10000</p>",
+ "threshold": 0,
+ "autogen": false,
+ "weightmap": {},
+ "hint": ""}

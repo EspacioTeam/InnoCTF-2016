@@ -1,0 +1,10 @@
+{
+  "name": "PHPiserable",
+  "score": 200,
+  "category": "Web",
+  "grader": "web/phpiserable/grader.py",
+  "description": "<p>Pepe очень любит пэ ха пэ. Но его это не спасло.</p> <p><a href='problem-static/web/phpiserable/index.php'><img style='width:30%; height:30%;' src='problem-static/web/phpiserable/pepe.png'/></a></p> <p>188.130.155.58:10003</p>",
+  "threshold": 0,
+  "weightmap": {},
+  "hint": ""
+}

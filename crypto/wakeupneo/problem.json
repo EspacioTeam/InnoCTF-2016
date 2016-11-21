@@ -1,0 +1,10 @@
+{
+  "name": "Wake up, Neo",
+  "score": 300,
+  "category": "Crypto",
+  "grader": "crypto/wakeupneo/grader.py",
+  "description": "Днём Томас Андерсон — обычный программист, работающий в компьютерной фирме 'Metacortex', а ночью — хакер по кличке Нео. Единственный вопрос, который мучает его последнее время, — 'Что такое Матрица?' <a href='problem-static/crypto/wakeupneo/matrix'>Дамп</a>. Алфавит [a-z0-9]",
+  "threshold": 0,
+  "weightmap": {},
+  "hint": ""
+}

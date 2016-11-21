@@ -1,0 +1,10 @@
+{
+    "name": "Rusty Server",
+    "score": 250,
+    "category": "PWN",
+    "grader": "pwn/rustyserver/grader.py",
+    "description": "<p>Мы сделали целый сервер на <a href='https://www.rust-lang.org/en-US/'>Rust</a>! Вы не сможете взломать его!</p><p>188.130.155.58:10004</p>",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": ""
+}

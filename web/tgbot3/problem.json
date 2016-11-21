@@ -1,0 +1,9 @@
+{"name": "Telegram BOT's vol.3",
+ "score": 400,
+ "category": "Web",
+ "grader": "web/tgbot3/grader.py",
+ "description": "Ваша задача забрать флаг у @InnoCTFBot! Выберите /difficulty 3",
+ "threshold": 0,
+ "autogen": false,
+ "weightmap": {},
+ "hint": ""}

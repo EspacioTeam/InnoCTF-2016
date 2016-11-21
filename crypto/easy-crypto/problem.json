@@ -1,0 +1,10 @@
+{
+    "name": "Easy crypto",
+    "score": 100,
+    "category": "Crypto",
+    "grader": "crypto/easy-crypto/grader.py",
+    "description": "Помоги расшифровать <a target=_blank href='problem-static/crypto/easy-crypto/flag.png.bin'></a>? <a target=_blank href='problem-static/crypto/easy-crypto/script.py'>Это скрипт</a>, который использовали для шифрования, но ключ удален",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": ""
+}

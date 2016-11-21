@@ -1,0 +1,10 @@
+{
+    "name": "fck my brain",
+    "score": 400,
+    "category": "PPC",
+    "grader": "ppc/brainfuck/grader.py",
+    "description": "Я потерял мой четырехзначный PIN, вам нужно восстановить <a target='_blank' href='problem-static/ppc/brainfuck/task.txt'>код</a> и получить сообщение.",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": ""
+}

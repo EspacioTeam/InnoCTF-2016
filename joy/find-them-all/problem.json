@@ -1,0 +1,10 @@
+{
+    "name": "Find them all",
+    "score": 100,
+    "category": "Joy",
+    "grader": "joy/find-them-all/grader.py",
+    "description": "Тут несколько <a target=_blank href='problem-static/joy/find-them-all/find-them-all.png'>картинок</a>. Найдите их все! Флаг -- конкатенация первых букв имен в нижнем регистре" ,
+    "threshold": 0,
+    "weightmap": {},
+    "hint": ""
+}

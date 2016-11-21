@@ -1,0 +1,10 @@
+{
+    "name": "SPIES",
+    "score": 400,
+    "category": "Forensics",
+    "grader": "forensics/spies/grader.py",
+    "description": "Мы обнаружили что в наших рядах завелось два немецких шпиона. Насколько нам известно, они ведут разработку некоего вируса. К сожалению, мы не знаем подробностей. Нам нужно хотя бы имя вируса. Все что мы нашли - <a href='problem-static/forensics/spies/message1.png'>две</a> <a href='problem-static/forensics/spies/message2.png'>пикчи</a>, которые взрывают мозг...",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": ""
+}

@@ -1,0 +1,9 @@
+{"name":"You in the army now!",
+ "score": 300,
+ "category": "PPC",
+ "grader": "ppc/you_in_the_army_now/grader.py",
+ "description": "<p>Здравия желаю, новобранец. Нет времени объяснять, ты отправляешься в армию, но сперва нужно проверить зрение. Определи все буквы на картинках.</p><p>188.130.155.58:10001</p>",
+ "threshold": 0,
+ "autogen": false,
+ "weightmap": {},
+ "hint": ""}

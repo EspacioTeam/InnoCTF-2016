@@ -1,0 +1,10 @@
+{
+    "name": "Another task",
+    "score": 100,
+    "category": "Forensics",
+    "grader": "forensics/person/grader.py",
+    "description": "<p>О ком это я?</p><p>188.130.155.58:10005</p>",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": ""
+}

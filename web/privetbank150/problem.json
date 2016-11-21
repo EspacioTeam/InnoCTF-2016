@@ -1,0 +1,9 @@
+{"name": "I came across the forgery",
+ "score": 150,
+ "category": "Web",
+ "grader": "web/privetbank150/grader.py",
+ "description": "<a href='188.130.155.58:8000'>http://188.130.155.58:8000</a>",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": ""
+}

@@ -1,0 +1,9 @@
+{"name": "Picture",
+ "score": 250,
+ "category": "Steganography",
+ "grader": "stego/picture/grader.py",
+ "description": "<a href='problem-static/stego/picture/runaway.png'>Флаг где-то тут</a>",
+ "threshold": 0,
+ "autogen": false,
+ "weightmap": {},
+ "hint": ""}

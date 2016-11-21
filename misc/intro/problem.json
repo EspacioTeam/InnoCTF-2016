@@ -1,0 +1,10 @@
+{
+    "name": "Welcome to the InnoCTF!",
+    "score": 50,
+    "category": "misc",
+    "grader": "misc/intro/grader.py",
+    "description": "Flags are in 'InnoCTF{.*}' format",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": "Here's a hint example. Flag for you is: InnoCTF{l3ts_pl4y_th3_g4m3}"
+}

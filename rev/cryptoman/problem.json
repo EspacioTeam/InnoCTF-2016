@@ -1,0 +1,10 @@
+{
+    "name": "Cryptoman",
+    "score": 500,
+    "category": "Reverse",
+    "grader": "rev/cryptoman/grader.py",
+    "description": "Мы тут придумали новый невзламываемый алгоритм шифрования! Или взламываемый?",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": ""
+}

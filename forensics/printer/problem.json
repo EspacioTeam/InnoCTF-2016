@@ -1,0 +1,10 @@
+{
+    "name": "Printer",
+    "score": 250,
+    "category": "Forensics",
+    "grader": "forensics/printer/grader.py",
+    "description": " Кто-то пытается отправить <a target=_blank href='problem-static/forensics/printer/printer-traffic.pcap'>файл</a> на печать. Помогите разобрать что там",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": ""
+}

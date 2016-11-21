@@ -1,0 +1,10 @@
+{
+    "name": "VK API vol.2",
+    "score": 200,
+    "category": "Recon",
+    "grader": "recon/vk2/grader.py",
+    "description": "Помню, катались с пацанами на лодке, во второй половине июня 2015 года. А номер лодки я и забыл. Хорошо помню, что мы фоткались, а дело было на Бердской Косе.",
+    "threshold": 0,
+    "weightmap": {},
+    "hint": "Формат InnoCTF{id}. <a href='https://vk.com/dev/photos.search'>Может помочь</a>"
+}

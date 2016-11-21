@@ -1,0 +1,8 @@
+{"name": "Sample text!",
+ "score": 100,
+ "category": "Joy",
+ "grader":"joy/cool/grader.py",
+ "description": "<a href='problem-static/joy/cool/sddd.jpg'>Здесь должно быть описание</a> ",
+ "threshold": 0,
+ "weightmap": {},
+ "hint": "хинта нет"}

@@ -6,7 +6,8 @@
 
 Решение на python:
 
-```# Welcome. You want to defuse the hashbomb, isn't it? So. You actually have to defuse 5 bombs. Are you ready?
+```
+# Welcome. You want to defuse the hashbomb, isn't it? So. You actually have to defuse 5 bombs. Are you ready?
 # Level 1/5.
 # Send us a string starting with k1dubcwrkxggztz4, ^[1-4a-z]{21}$, such that its sha1 hashsum equals to a4e422d35557b7d1d2bb6425acf1d98ee0d9b3d9. And... you have 60 seconds.
 

@@ -139,3 +139,6 @@ print(
 
 Забираем флаг и радуемся =)
 
+```python
+Out: 'InnoCTF{crypt0_m4g1c14n}'
+```

@@ -54,5 +54,6 @@ for i in xrange(501):
     temp = word
 r.interactive()
 
+> flag = InnoCTF{Gr347_5ucc355!_y0u_4r3_w1n!_u53_7h1s_fl4g}
 
 

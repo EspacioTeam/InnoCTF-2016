@@ -43,3 +43,6 @@ for i in xrange(5):
     r.send(brute(start,method,hash))
     print r.recvline()
 r.interactive()
+
+
+> flag = InnoCTF{21f49312fa217412f2f41ca3ba1cbd6d}
